@@ -10,8 +10,8 @@
 /.idea/
 
 # Maven
-/target/maven-archiver/
-/target/maven-status/
+/target/
+
 
 # FILES
 .classpath

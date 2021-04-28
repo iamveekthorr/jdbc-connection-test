@@ -10,13 +10,13 @@
 /.idea/
 
 # Maven
-/target/
+target/
 
 # FILES
 .classpath
 .project
 DemoDatabaseConnection.iml
-password.txt
+*.txt
 *.class
 *.jar
 *.lst
